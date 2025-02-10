@@ -1,8 +1,6 @@
 """
-Question 8. Find the most frequently occurring repeat of length 6 in all sequences. How many times does it occur in all?
-
-Selection deleted
-
+Question 8. Find the most frequently occurring repeat of length 6 in all sequences. 
+How many times does it occur in all?
 """
 
 # Function for opening a fasta file 
